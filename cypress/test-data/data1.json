@@ -1,0 +1,114 @@
+[
+    
+    
+    {
+        "name": "mat-option-30",
+        "sitename":"AUSU",
+        "id": 1
+    },
+    {
+        "name": "mat-option-32",
+        "sitename":"Birmingham airport",
+        "id": 2
+    },
+    {
+        "name":"mat-option-35",
+        "sitename":"bullring",
+        "id": 3
+    },
+    {
+        "name":"mat-option-39",
+        "sitename":"dundrum town center",
+        "id": 4
+    },
+    {
+        "name":"mat-option-40",
+        "sitename":"EBRI",
+        "id": 5
+    },
+    {
+        "name":"mat-option-41",
+        "sitename":"Ellesmere park high school",
+        "id": 6
+    } ,
+    {
+        "name":"mat-option-44",
+        "sitename":"Finsbury Library",
+        "id": 7
+    },
+    {
+        "name":"mat-option-45",
+        "sitename":"GE Plaza",
+        "id": 8
+    },
+    {
+        "name":"mat-option-46",
+        "sitename":"Grand central",
+        "id": 9
+    },
+    {
+        "name":"mat-option-48",
+        "sitename":"Invicta House",
+        "id": 10
+    },
+    {
+        "name":"mat-option-51",
+        "sitename":"North Herfordshire College",
+        "id": 11
+    },
+    {
+        "name":"mat-option-52",
+        "sitename":"Norton Way Nissan",
+        "id": 12
+    }, 
+    {
+        "name":"mat-option-58",
+        "sitename":"Royal Opera House",
+        "id": 13
+    },
+    {
+        "name":"mat-option-60",
+        "sitename":"Sunbury Building 200",
+        "id": 14
+    },
+    {
+        "name":"mat-option-61",
+        "sitename":"Sunbury Building E",
+        "id": 15
+    },
+    {
+        "name":"mat-option-62",
+        "sitename":"Sunbury Building F",
+        "id": 16
+    },
+    {
+        "name":"mat-option-63",
+        "sitename":"Sunbury Building G",
+        "id": 17
+    },
+    {
+        "name":"mat-option-64",
+        "sitename":"Sunbury Building H",
+        "id": 18
+    },
+    {
+        "name":"mat-option-65",
+        "sitename":"Sunbury Link",
+        "id": 19
+    },
+    {
+        "name":"mat-option-66",
+        "sitename":"Sunbury ULC",
+        "id": 20
+    },
+    {
+        "name":"mat-option-68",
+        "sitename":"The Arc",
+        "id": 21
+    },
+    {
+        "name":"mat-option-76",
+        "sitename":"Worrall House",
+        "id": 22
+    }  
+]

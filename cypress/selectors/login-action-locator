@@ -1,0 +1,11 @@
+
+export function siteName(dataTestId){
+  return `app-portfolio-card[id="${dataTestId}"]`
+}
+export function selectDate(dateId){
+ return `//tbody[@class="mat-calendar-body"]//div[contains(text(),${dateId})]`
+
+}
+export function singleSiteName(value){
+    return `[id="${value}"]`
+  }

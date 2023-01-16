@@ -1,0 +1,16 @@
+module.exports = {
+    emailField: '[placeholder=Email]',
+    passwordField: '[placeholder=Password]',
+    checkBox: '[class="mat-checkbox-inner-container"]',
+    signInButton: '[id="signInButton"]',
+    errorMessages: '.error-messages li',
+    comparisonData: '.secondaryColor900:nth-child(2)',
+    signOut: ':nth-child(10) > app-side-bar-option > .row > .col-6',
+    portfolioName: '[id="portfolio"]',
+    portfolioSiteName: 'app-portfolio-card[id="mallco"]',
+    navBar: '.nav-item > .mat-button-wrapper > .material-icons',
+    notificationButton: '[data-mat-icon-name="notifications"]',
+    options: '.mat-focus-indicator> .mat-button-wrapper',
+    siteName: '#mat-select-value-7',
+    selectSiteOptions: '[formcontrolname="optionsForm"]',
+}
